@@ -1,0 +1,7 @@
+.wrapper{
+    width: 500;
+    height: 500;
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+}
